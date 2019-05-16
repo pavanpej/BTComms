@@ -1,3 +1,3 @@
-# BTComms
+# BTComms - Bluetooth Text Communication
 
-> This app was made as a simple demonstration of how **Bluetooth** can be used to communicate text between two phones, something like a chat application.
+This Android app is a simple demonstration of how **Bluetooth** can be used to communicate (text only) between two phones, works somewhat like a chat application.
